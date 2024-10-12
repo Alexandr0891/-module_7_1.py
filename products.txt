@@ -1,0 +1,7 @@
+
+
+banana, 0.5, fruit
+canfets, 2.4, confectionery products
+banana, 2.7, fruit
+apple, 0.5, fruit
+coffee, 0.1, groceries
